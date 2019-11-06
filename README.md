@@ -17,4 +17,4 @@ pip3 install pygame
 
 ## Autores
 
-Creado por Manuel Luis Alcázar (@MrManlu) para la asociación de robótica de [ESIBot](esibot.github.io).
+Creado por Manuel Luis Alcázar (@MrManlu) para la asociación de robótica de [ESIBot](https://esibot.github.io/).
